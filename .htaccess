@@ -1,0 +1,57 @@
+RewriteEngine on
+
+RewriteRule ^index index.php [NC,QSA,L]
+
+RewriteRule ^home/?$ home.php [NC,QSA,L]
+
+RewriteRule ^config/?$ config.php [NC,QSA,L]
+
+RewriteRule ^tiposUsuario/?$ tiposUsuario.php [NC,QSA,L]
+RewriteRule ^tipoUsuarioDetail/?$ tipoUsuarioDetail.php [NC,QSA,L]
+RewriteRule ^tipoUsuarioNovo/?$ tipoUsuarioNovo.php [NC,QSA,L]
+
+RewriteRule ^rotinas/?$ rotinas.php [NC,QSA,L]
+RewriteRule ^subrotinaDetail/?$ subrotinaDetail.php [NC,QSA,L]
+
+RewriteRule ^grupos/?$ grupos.php [NC,QSA,L]
+RewriteRule ^grupoNovo/?$ grupoNovo.php [NC,QSA,L]
+RewriteRule ^grupoDetail/?$ grupoDetail.php [NC,QSA,L]
+
+RewriteRule ^subgrupos/?$ subgrupos.php [NC,QSA,L]
+RewriteRule ^subgrupoNovo/?$ subgrupoNovo.php [NC,QSA,L]
+RewriteRule ^subgrupoDetail/?$ subgrupoDetail.php [NC,QSA,L]
+
+RewriteRule ^locais/?$ locais.php [NC,QSA,L]
+RewriteRule ^localNovo/?$ localNovo.php [NC,QSA,L]
+RewriteRule ^localDetail/?$ localDetail.php [NC,QSA,L]
+
+RewriteRule ^midias/?$ midias.php [NC,QSA,L]
+RewriteRule ^midiaNova/?$ midiaNova.php [NC,QSA,L]
+RewriteRule ^midiaDetail/?$ midiaDetail.php [NC,QSA,L]
+
+RewriteRule ^tiposMidia/?$ tiposMidia.php [NC,QSA,L]
+RewriteRule ^tipoMidiaNova/?$ tipoMidiaNova.php [NC,QSA,L]
+RewriteRule ^tipoMidiaDetail/?$ tipoMidiaDetail.php [NC,QSA,L]
+
+RewriteRule ^campanhas/?$ campanhas.php [NC,QSA,L]
+RewriteRule ^campanhaNova/?$ campanhaNova.php [NC,QSA,L]
+RewriteRule ^campanhaDetail/?$ campanhaDetail.php [NC,QSA,L]
+
+RewriteRule ^publicos/?$ publicos.php [NC,QSA,L]
+RewriteRule ^publicoNovo/?$ publicoNovo.php [NC,QSA,L]
+RewriteRule ^publicoDetail/?$ publicoDetail.php [NC,QSA,L]
+
+RewriteRule ^publicidades/?$ publicidades.php [NC,QSA,L]
+RewriteRule ^publicidadeNova/?$ publicidadeNova.php [NC,QSA,L]
+RewriteRule ^publicidadeDigitalNova/?$ publicidadeDigitalNova.php [NC,QSA,L]
+RewriteRule ^publicidadeExternaNova/?$ publicidadeExternaNova.php [NC,QSA,L]
+RewriteRule ^publicidadeExternaDetail/?$ publicidadeExternaDetail.php [NC,QSA,L]
+RewriteRule ^publicidadeDetail/?$ publicidadeDetail.php [NC,QSA,L]
+RewriteRule ^publicidadesCampanha/?$ publicidadesCampanha.php [NC,QSA,L]
+RewriteRule ^midiaSelect/?$ midiaSelect.php [NC,QSA,L]
+
+RewriteRule ^usuarios/?$ usuarios.php [NC,QSA,L]
+RewriteRule ^usuarioDetail/?$ usuarioDetail.php [NC,QSA,L]
+RewriteRule ^usuarioNovo/?$ usuarioNovo.php [NC,QSA,L]
+RewriteRule ^perfil/?$ perfil.php [NC,QSA,L]
+

@@ -1,0 +1,16 @@
+[13-Aug-2017 12:25:12 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function grava() on boolean in /home/upper702/public_html/upper_new/crop/crop.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/upper702/public_html/upper_new/crop/crop.php on line 18
+[13-Aug-2017 12:30:35 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function grava() on boolean in /home/upper702/public_html/upper_new/crop/crop.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/upper702/public_html/upper_new/crop/crop.php on line 18
+[13-Aug-2017 12:34:55 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function grava() on boolean in /home/upper702/public_html/upper_new/crop/crop.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/upper702/public_html/upper_new/crop/crop.php on line 18
+[13-Aug-2017 12:34:56 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function grava() on boolean in /home/upper702/public_html/upper_new/crop/crop.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/upper702/public_html/upper_new/crop/crop.php on line 18
